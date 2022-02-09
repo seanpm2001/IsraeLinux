@@ -53,11 +53,11 @@
 *.handlebars linguist-documentation=false
 *.hbs linguist-detectable=true
 *.hbs linguist-documentation=false
-# WebVTT subtitle file
-*.vtt linguist-detectable=true
-*.vtt linguist-documentation=false
+# Shell source file
+*.sh linguist-detectable=true
+*.sh linguist-documentation=false
 # SubRip subtitle file
-*.srt linguist-detectable=true
+*.srt linguist-detectable=false
 *.srt linguist-documentation=false
 # Ruby source file
 *.rb linguist-detectable=true
@@ -69,10 +69,9 @@
 *gemfile linguist-detectable=true
 *gemfile linguist-documentation=false
 # YAML (YAML Ain't Markup Language) document
-# Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
-*.yml linguist-detectable=false
+*.yml linguist-detectable=true
 *.yml linguist-documentation=false
-*.yaml linguist-detectable=false
+*.yaml linguist-detectable=true
 *.yaml linguist-documentation=false
 # Markdown
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
@@ -113,6 +112,6 @@
 # End of linguist script
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 3 (Monday, 2021 November 29th at 3:14 pm)
-# Line count (including blank lines and compiler line): 119
+# File version: 4 (Tuesday, 2022 February 8th at 8:05 pm)
+# Line count (including blank lines and compiler line): 118
 # End of script
