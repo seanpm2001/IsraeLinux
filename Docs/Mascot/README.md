@@ -5,7 +5,7 @@
 
 ## Version 1
 
-![/Graphics/Mascot/V1/IsraeLinux_Tux_V1.png](/Graphics/Mascot/V1/IsraeLinux_Tux_V1.png)
+![/Graphics/Mascot/V1/IsraeLinux_Tux_V1.png](/Graphics/Mascots/V1/IsraeLinux_Tux_V1.png)
 
 The mascot for IsraeLinux is the Linux mascot with a Star of David on the chest. I plan to have variants, such as Tux also wearing a [Kippah](https://en.wikipedia.org/wiki/Kippah/)
 
@@ -15,6 +15,6 @@ The mascot for IsraeLinux is the Linux mascot with a Star of David on the chest.
 
 ***
 
-**Article version:** `1 (2022. February 8th at 7:29 pm)`
+**Article version:** `2 (2022. February 8th at 7:32 pm)`
 
 ***
